@@ -23,7 +23,7 @@ You can then print the generated circle using println() or save it to a file.
 Here's a simple example of how to use programm to create a circle:
 ```kotlin
  fun main(args: Array<String>) {
-        drawCircle(100, ".")
+        drawCircle(100, "*")
     }
 ```
 This will generate and print a circle with a radius of 5 using asterisks as decoration.
